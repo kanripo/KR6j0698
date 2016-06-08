@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:04.217001
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:30
 #+TITLE: 楞嚴經直指科文
 #+PROPERTY: CBETA_ID X14n0290
 #+PROPERTY: ID KR6j0698
