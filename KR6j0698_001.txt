@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:04.217001
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:30
 #+TITLE: 楞嚴經直指科文
 #+PROPERTY: CBETA_ID X14n0290
 #+PROPERTY: ID KR6j0698
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 14, No. 290
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0698_X_001-0448a> 
 #+PROPERTY: JUAN 1
-No.290¶
-
- 首楞嚴經直指科文¶
+No. 290¶
+首楞嚴經直指科文¶
 ¶
 
   
